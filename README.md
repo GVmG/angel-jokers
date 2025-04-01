@@ -1,4 +1,4 @@
-# angel-jokers
+# Angel Jokers
 A Balatro Mod to replace certain Jokers with Neon Genesis Evangelion themed ones
 
 # Installation
