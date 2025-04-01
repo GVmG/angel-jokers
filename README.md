@@ -1,5 +1,8 @@
 # Angel Jokers
-A Balatro Mod to replace certain Jokers with Neon Genesis Evangelion themed ones
+A Balatro Mod to replace certain Jokers with Neon Genesis Evangelion themed ones.
+
+![image](https://github.com/user-attachments/assets/700c68da-6dc8-4a1f-b012-3b2aa0d671b5)
+
 
 # Installation
 You will need to install [Lovely](https://github.com/ethangreen-dev/lovely-injector) for this mod to run, as well as [Steamodded](https://github.com/Steamodded/smods/wiki). Additionally, this mod requires the [Malverk](https://github.com/Eremel/Malverk) texture manager mod.
